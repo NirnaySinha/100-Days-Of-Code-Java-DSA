@@ -28,4 +28,4 @@ Once my Java foundation is solid, I will transition to a dedicated DSA course to
 | **05** | | | |
 
 ---
-*Follow my daily updates on X (Twitter): [Insert your X profile link here]*
+*Follow my daily updates on X (Twitter): https://x.com/imnirnaysinha
