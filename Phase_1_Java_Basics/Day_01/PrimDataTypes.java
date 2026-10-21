@@ -1,4 +1,4 @@
-public class NonPrimDataTypes {
+public class PrimDataTypes {
     public static void main(String[] args) {
         byte age = 25;
         short heightCm = 175;
