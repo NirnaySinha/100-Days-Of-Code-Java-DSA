@@ -1,6 +1,8 @@
 public class PrimDataTypes {
     public static void main(String[] args) {
+        //int but short short
         byte age = 25;
+        //int but lower values
         short heightCm = 175;
         int salary = 50000;
         long distanceToMoon = 384400000L;

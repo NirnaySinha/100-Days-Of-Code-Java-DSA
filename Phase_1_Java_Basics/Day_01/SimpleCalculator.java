@@ -52,7 +52,6 @@ public class SimpleCalculator {
                 System.out.println("That option doesn't exist.");
                 break;
         }
-
         sc.close();
     }
 }

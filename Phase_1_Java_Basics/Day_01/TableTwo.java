@@ -40,7 +40,6 @@ public class TableTwo {
                 System.out.println("Invalid choice. Please select 1, 2, or 3.");
                 break;
         }
-
         sc.close();
     }
 }
