@@ -21,7 +21,7 @@ Once my Java foundation is solid, I will transition to a dedicated DSA course to
 
 | Day | Date | Topic Covered | What I Learned / Coded |
 | :---: | :---: | :--- | :--- |
-| **01** | Oct 22, 2026 | Java Basics & Conditionals | Output mechanics, Scanner input, `if-else` blocks, and basic loops. |
+| **01** | Oct 28, 2026 | Java Basics, Conditionals & Git Setup | Output mechanics, Scanner input, `if-else` blocks, basic loops, and local Git/VS Code terminal setup. |
 | **02** | | Pattern Questions | *Coming soon...* |
 | **03** | | | |
 | **04** | | | |
