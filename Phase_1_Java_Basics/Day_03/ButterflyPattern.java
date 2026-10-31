@@ -36,5 +36,6 @@ public class ButterflyPattern {
 
             System.out.println();
         }
+        sc.close();
     }
 }
